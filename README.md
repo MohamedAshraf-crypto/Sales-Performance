@@ -72,10 +72,7 @@ Canada and Northwest lead in total customers.
 - Excel / CSV    → Data source
 - Data Analysis  → Aggregation and time-series analysis
 
----
 
-## 🖼 Dashboard Preview 🖼
-![Sales Performance Dashboard](./dashboard.png)
 
 ---
 
